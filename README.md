@@ -1,2 +1,2 @@
 # wink-vue3
-a template framework for vite + vue3 + pinia + ts
+A very useful front-end framework for vite + vue3 + ts + pinia + router + axios + eslint + less
